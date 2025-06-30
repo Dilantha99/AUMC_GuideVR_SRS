@@ -1,7 +1,5 @@
 # 🎓 AUMC GuideVR – Virtual Reality Campus Navigation System
 
-![AUMC GuideVR Banner](https://via.placeholder.com/1000x250?text=AUMC+GuideVR+%7C+Virtual+Reality+Campus+Navigation)
-
 > **Project Type:** Software Requirements Specification (SRS)  
 > **Course:** Software Requirement Engineering (SRE)  
 > **Institution:** Air University, Multan Campus  
