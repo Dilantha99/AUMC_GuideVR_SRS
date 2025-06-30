@@ -61,13 +61,6 @@ While not implemented, the following tools were considered in the SRS:
 
 ---
 
-## 📷 Sample Screens & Concept Designs
-
-> _"In a future implementation, here would be previews of the VR scenes, drone view interface, and bookmarking system."_  
-*(Currently documented as visual modules in the SRS only)*
-
----
-
 ## 🤝 Acknowledgments
 
 We express our deep gratitude to:
